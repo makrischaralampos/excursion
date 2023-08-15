@@ -32,3 +32,8 @@ p {
   font-size: 1.3125rem;
   color: gray;
 }
+
+footer {
+  text-align: right;
+  color: gray;
+}
