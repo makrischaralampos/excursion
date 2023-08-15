@@ -38,6 +38,6 @@ footer {
   color: gray;
 }
 
-footer p {
+footer > p {
   text-align: right;
 }
